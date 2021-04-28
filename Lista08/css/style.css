@@ -1,0 +1,13 @@
+*{
+    margin:10px;
+    padding: 0;
+}
+        
+body{
+    text-align: center;
+    background-image: url(https://cdna.artstation.com/p/assets/images/images/015/084/982/large/theophile-curto-yellow-pink-city-desert.jpg?1546993050);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: purple;
+}
